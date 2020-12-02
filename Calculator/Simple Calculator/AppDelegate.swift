@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Calculator
+//  Simple Calculator
 //
 //  Created by Ngô Minh Tông on 12/1/20.
 //
