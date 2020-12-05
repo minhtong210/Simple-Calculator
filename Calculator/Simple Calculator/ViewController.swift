@@ -8,7 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    // Setting
+    
     @IBOutlet weak var ResultLabel: UILabel!
     
     var currentNumber: Double = 0
