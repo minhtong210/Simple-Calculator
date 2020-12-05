@@ -8,7 +8,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    //Payment
     @IBOutlet weak var ResultLabel: UILabel!
     
     var currentNumber: Double = 0
